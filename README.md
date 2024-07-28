@@ -12,7 +12,7 @@ Go to your project folder with the following structure:
 
 Run ```cd ./project```
 
-Run ```docker run -it -v $PWD:/project davidsger/confluence2bluespice```
+Run ```docker run -it -v $PWD:/project davidsger/confluence2bluespice:1.2.2```
 
 Now use the following commands to convert the files:
 
